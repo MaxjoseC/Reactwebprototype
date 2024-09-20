@@ -16,10 +16,9 @@
     "@vitejs/plugin-react": "^4.2.1"
   },
   "scripts": {
-    "dev": "vite",
-    "build": "tsc && vite build",
-    "preview": "vite preview"
+    "build": "vite build"
   },
+  
   "browserslist": [
     ">0.2%",
     "not dead",
