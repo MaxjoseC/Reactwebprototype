@@ -1,0 +1,257 @@
+[
+  {
+    "frase": "La única manera de hacer un gran trabajo es amar lo que haces.",
+    "autor": "Steve Jobs",
+    "clasificacion": "inspiracion"
+  },
+  {
+    "frase": "La mejor forma de predecir el futuro es creándolo.",
+    "autor": "Peter Drucker",
+    "clasificacion": "inspiracion"
+  },
+  {
+    "frase": "Cree que puedes y ya estarás a medio camino.",
+    "autor": "Theodore Roosevelt",
+    "clasificacion": "inspiracion"
+  },
+  {
+    "frase": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+    "autor": "Robert Collier",
+    "clasificacion": "inspiracion"
+  },
+  {
+    "frase": "El único límite a nuestros logros de mañana son nuestras dudas de hoy.",
+    "autor": "Franklin D. Roosevelt",
+    "clasificacion": "inspiracion"
+  },
+  {
+    "frase": "El futuro pertenece a aquellos que creen en la belleza de sus sueños.",
+    "autor": "Eleanor Roosevelt",
+    "clasificacion": "inspiracion"
+  },
+  {
+    "frase": "No cuentes los días, haz que los días cuenten.",
+    "autor": "Muhammad Ali",
+    "clasificacion": "inspiracion"
+  },
+  {
+    "frase": "Hazlo o no lo hagas, pero no lo intentes.",
+    "autor": "Yoda",
+    "clasificacion": "inspiracion"
+  },
+  {
+    "frase": "La vida es lo que pasa mientras estás ocupado haciendo otros planes.",
+    "autor": "John Lennon",
+    "clasificacion": "reflexion"
+  },
+  {
+    "frase": "No es lo que miras lo que importa, es lo que ves.",
+    "autor": "Henry David Thoreau",
+    "clasificacion": "reflexion"
+  },
+  {
+    "frase": "El verdadero viaje de descubrimiento no consiste en buscar nuevos paisajes, sino en mirar con nuevos ojos.",
+    "autor": "Marcel Proust",
+    "clasificacion": "reflexion"
+  },
+  {
+    "frase": "No es la especie más fuerte la que sobrevive, sino la que mejor se adapta al cambio.",
+    "autor": "Charles Darwin",
+    "clasificacion": "reflexion"
+  },
+  {
+    "frase": "La vida no se trata de encontrarte a ti mismo, sino de crearte a ti mismo.",
+    "autor": "George Bernard Shaw",
+    "clasificacion": "reflexion"
+  },
+  {
+    "frase": "La felicidad no es algo hecho. Viene de tus propias acciones.",
+    "autor": "Dalai Lama",
+    "clasificacion": "reflexion"
+  },
+  {
+    "frase": "Llueve porque las nubes no pueden soportar más el peso de sus lágrimas.",
+    "autor": "Anónimo",
+    "clasificacion": "melancolia"
+  },
+  {
+    "frase": "El alma que hablar puede con los ojos, también puede besar con la mirada.",
+    "autor": "Gustavo Adolfo Bécquer",
+    "clasificacion": "melancolia"
+  },
+  {
+    "frase": "Las lágrimas son las palabras que el corazón no puede expresar.",
+    "autor": "Anónimo",
+    "clasificacion": "melancolia"
+  },
+  {
+    "frase": "La nostalgia es el deseo de quedarse atrás cuando el tiempo sigue avanzando.",
+    "autor": "Haruki Murakami",
+    "clasificacion": "melancolia"
+  },
+  {
+    "frase": "El sonido de la lluvia es la música de los recuerdos.",
+    "autor": "Anónimo",
+    "clasificacion": "melancolia"
+  },
+  {
+    "frase": "La tristeza es un muro entre dos jardines.",
+    "autor": "Khalil Gibran",
+    "clasificacion": "melancolia"
+  },
+  {
+    "frase": "El dolor, cuando es profundo, no se ve; solo se siente.",
+    "autor": "Anónimo",
+    "clasificacion": "melancolia"
+  },
+  {
+    "frase": "Todo lo que nos irrita de los demás puede llevarnos a una comprensión de nosotros mismos.",
+    "autor": "Carl Jung",
+    "clasificacion": "reflexion"
+  },
+  {
+    "frase": "El único verdadero fracaso es no intentarlo.",
+    "autor": "Elbert Hubbard",
+    "clasificacion": "inspiracion"
+  },
+  {
+    "frase": "La vida es realmente simple, pero insistimos en hacerla complicada.",
+    "autor": "Confucio",
+    "clasificacion": "reflexion"
+  },
+  {
+    "frase": "La mejor venganza es el éxito masivo.",
+    "autor": "Frank Sinatra",
+    "clasificacion": "inspiracion"
+  },
+  {
+    "frase": "Aprender nunca cansa a la mente.",
+    "autor": "Leonardo da Vinci",
+    "clasificacion": "inspiracion"
+  },
+  {
+    "frase": "La educación es el arma más poderosa para cambiar el mundo.",
+    "autor": "Nelson Mandela",
+    "clasificacion": "inspiracion"
+  },
+  {
+    "frase": "El propósito de la vida es una vida con propósito.",
+    "autor": "Robert Byrne",
+    "clasificacion": "reflexion"
+  },
+  {
+    "frase": "Solo aquellos que se arriesgan a ir demasiado lejos pueden descubrir hasta dónde pueden llegar.",
+    "autor": "T.S. Eliot",
+    "clasificacion": "inspiracion"
+  },
+  {
+    "frase": "Lo que no te mata te hace más fuerte.",
+    "autor": "Friedrich Nietzsche",
+    "clasificacion": "inspiracion"
+  },
+  {
+    "frase": "No puedes cambiar el viento, pero puedes ajustar tus velas para llegar a tu destino.",
+    "autor": "Jimmy Dean",
+    "clasificacion": "reflexion"
+  },
+  {
+    "frase": "No es lo que tienes, sino lo que haces con lo que tienes lo que marca la diferencia.",
+    "autor": "Zig Ziglar",
+    "clasificacion": "reflexion"
+  },
+  {
+    "frase": "La peor traición que puedes hacerte es no seguir tus sueños.",
+    "autor": "Anónimo",
+    "clasificacion": "reflexion"
+  },
+  {
+    "frase": "No cuentes el tiempo, haz que el tiempo cuente.",
+    "autor": "Anónimo",
+    "clasificacion": "inspiracion"
+  },
+  {
+    "frase": "Cada día es una segunda oportunidad.",
+    "autor": "Oprah Winfrey",
+    "clasificacion": "inspiracion"
+  },
+  {
+    "frase": "El tiempo lo cura todo, pero los recuerdos perduran.",
+    "autor": "Anónimo",
+    "clasificacion": "melancolia"
+  },
+  {
+    "frase": "La gente más feliz no es la que tiene lo mejor de todo, sino la que hace lo mejor con lo que tiene.",
+    "autor": "Anónimo",
+    "clasificacion": "reflexion"
+  },
+  {
+    "frase": "El único imposible es aquel que no intentas.",
+    "autor": "Anónimo",
+    "clasificacion": "inspiracion"
+  },
+  {
+    "frase": "La inspiración existe, pero tiene que encontrarte trabajando.",
+    "autor": "Pablo Picasso",
+    "clasificacion": "inspiracion"
+  },
+  {
+    "frase": "La vida es como andar en bicicleta. Para mantener el equilibrio, debes seguir adelante.",
+    "autor": "Albert Einstein",
+    "clasificacion": "reflexion"
+  },
+  {
+    "frase": "La lluvia cae porque las nubes no pueden soportar el peso de sus lágrimas.",
+    "autor": "Anónimo",
+    "clasificacion": "melancolia"
+  },
+  {
+    "frase": "Lo que hacemos en la vida tiene eco en la eternidad.",
+    "autor": "Máximo Décimo Meridio, Gladiator",
+    "clasificacion": "reflexion"
+  },
+  {
+    "frase": "La grandeza de un hombre está en cómo trata a aquellos que no le pueden dar nada a cambio.",
+    "autor": "Anónimo",
+    "clasificacion": "reflexion"
+  },
+  {
+    "frase": "El poder de la imaginación nos hace infinitos.",
+    "autor": "John Muir",
+    "clasificacion": "inspiracion"
+  },
+  {
+    "frase": "No sueñes con el éxito, trabaja para lograrlo.",
+    "autor": "Anónimo",
+    "clasificacion": "inspiracion"
+  },
+  {
+    "frase": "No te arrepientas de nada, porque al final todo te ha hecho ser quien eres hoy.",
+    "autor": "Anónimo",
+    "clasificacion": "reflexion"
+  },
+  {
+    "frase": "No puedes controlar todo lo que sucede, pero puedes decidir no dejar que te consuma.",
+    "autor": "Anónimo",
+    "clasificacion": "reflexion"
+  },
+  {
+    "frase": "El arte de ser sabio es saber qué pasar por alto.",
+    "autor": "William James",
+    "clasificacion": "reflexion"
+  },
+  {
+    "frase": "El mayor placer en la vida es hacer lo que la gente dice que no puedes hacer.",
+    "autor": "Walter Bagehot",
+    "clasificacion": "inspiracion"
+  },
+  {
+    "frase": "La tristeza es una de las vibraciones que prueban que estamos vivos.",
+    "autor": "Antoine de Saint-Exupéry",
+    "clasificacion": "melancolia"
+  },
+  {
+    "frase": "La atención es la caricia perfecta.",
+    "autor": "Mario Benedetti",
+    "clasificacion": "melancolia"
+  }
+]
