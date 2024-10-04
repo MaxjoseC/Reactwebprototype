@@ -4,14 +4,13 @@ function FraseDelDia() {
   const [frase, setFrase] = useState(null);
 
   useEffect(() => {
-    const today = new Date().toISOString().split("T")[0]; // Obtener la fecha en formato YYYY-MM-DD
+    const today = new Date().toISOString().split("T")[0]; // fecha en formato YYYY-MM-DD
     const storedFrase = JSON.parse(localStorage.getItem("fraseDelDia"));
 
-    // Verificar si ya hay una frase almacenada para el día actual
     if (storedFrase && storedFrase.fecha === today) {
       setFrase(storedFrase.frase);
     } else {
-      // Si no hay frase almacenada para hoy, seleccionar una nueva
+      // Si no hay frase almacenada seleccionar una nueva
       fetch("/frases.json")
         .then((response) => response.json())
         .then((data) => {
@@ -22,7 +21,7 @@ function FraseDelDia() {
             (item) => item.clasificacion === "reflexion"
           );
 
-          // Seleccionar una frase según el día de la semana
+          // frase según el día de la semana
           const diaSemana = new Date().getDay(); // 0 = domingo, 6 = sábado
           let frasesDelDia;
 
@@ -37,7 +36,7 @@ function FraseDelDia() {
 
           setFrase(randomFrase);
 
-          // Guardar la frase en localStorage con la fecha
+          // Guardar la frase en local con fecha
           localStorage.setItem(
             "fraseDelDia",
             JSON.stringify({ frase: randomFrase, fecha: today })
@@ -45,14 +44,14 @@ function FraseDelDia() {
         });
     }
 
-    // Aplicar estilos globales cuando se monta el componente
+    // Aplicar estilos 
     document.body.style.margin = "0";
     document.body.style.padding = "0";
     document.body.style.height = "100vh";
     document.documentElement.style.height = "100vh";
 
     return () => {
-      // Limpiar estilos globales cuando se desmonte el componente
+      // Limpiar estilos 
       document.body.style.margin = "";
       document.body.style.padding = "";
       document.body.style.height = "";
@@ -103,7 +102,7 @@ function FraseDelDia() {
     },
     autor: {
       fontSize: "1.5rem",
-      marginTop: "10px", // Espacio entre la frase y el autor
+      marginTop: "10px", 
       fontStyle: "italic",
       textShadow: "2px 2px 4px rgba(0, 0, 0, 0.6)",
     },
